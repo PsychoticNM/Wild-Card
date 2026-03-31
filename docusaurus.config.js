@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/NS.ico',
 
   // Set the production url of your site here
-    url: 'https://psychoticnm.github.io/',
+    url: 'https://wild-card.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wild-Card/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
